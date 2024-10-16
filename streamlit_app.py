@@ -6,7 +6,7 @@ import db_dtypes
 
 
 # Main application title
-st.title("Chatbot ABC")
+st.title("Chatbot ABC SQL Test")
 
 # Initialize session state variables if not already present
 if "gemini_api_key" not in st.session_state:
